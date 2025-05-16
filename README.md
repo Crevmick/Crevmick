@@ -1,4 +1,4 @@
-# Hi there, I'm Crevmick 👋
+# Hi there 👋, I'm @crevmick - Aworetan Michael
 
 Building powerful backend solutions with Node.js, Express.js, and MongoDB.
 
@@ -17,11 +17,27 @@ Building powerful backend solutions with Node.js, Express.js, and MongoDB.
 
 **Database**  
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+## Currently Learning
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 ---
 
+
 ## 📈 GitHub Stats
 ![Crevmick's GitHub stats](https://github-readme-stats.vercel.app/api?username=Crevmick&show_icons=true&theme=radical)
+
+## 🤝 Collaboration
+- Open to collaborating on web development projects
+- Experienced with WordPress and custom CMS development
+- Interested in both wordpress and backend development opportunities
+
+## 📫 Contact Me
+[![Email](https://img.shields.io/badge/Email-hello%40crevmick.com-red?style=for-the-badge&logo=gmail)](mailto:hello@crevmick.com)
 
 <!--
 **Crevmick/Crevmick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

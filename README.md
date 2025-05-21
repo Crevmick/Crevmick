@@ -1,6 +1,22 @@
-# Hi there 👋, I'm @crevmick - Aworetan Michael
+<h2 align="center">Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 
-Building powerful backend solutions with Node.js, Express.js, and MongoDB.
+<!-- Animation Typing -->
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3498DB&width=500&lines=I'm+Michael+Aworetan+(Crevmick);I'm+a+Backend+Developer;I'm+a+WordPress+Developer;Welcome+to+my+GitHub+space!">
+  </a>
+</p>
+
+<!-- Animation Typing: END -->
+
+<!-- Profile Views -->
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Crevmick&label=Profile%20views&color=0e75b6&style=flat" alt="Crevmick" />
+</p>
+
+<!-- Profile Views: END -->
 
 ## 🚀 About Me
 - 🔭 I’m currently working on backend projects and scalable APIs
@@ -28,8 +44,16 @@ Building powerful backend solutions with Node.js, Express.js, and MongoDB.
 ---
 
 
-## 📈 GitHub Stats
-![Crevmick's GitHub stats](https://github-readme-stats.vercel.app/api?username=Crevmick&show_icons=true&theme=radical)
+<!-- Github Stats -->
+
+## :fire: Github Stats
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Crevmick&show_icons=true&locale=en&theme=tokyonight" alt="Crevmick" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Crevmick&&theme=tokyonight" alt="Crevmick" /></p>
+
+<!-- Github Stats: END -->
+
 
 ## 🤝 Collaboration
 - Open to collaborating on web development projects
